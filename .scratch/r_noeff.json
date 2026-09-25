@@ -1,0 +1,339 @@
+{
+  "score": 0.020833333333333332,
+  "passed": 1,
+  "total": 48,
+  "tolerance": 0.002,
+  "mean_abs_err": 0.1417770833333333,
+  "cases": [
+    {
+      "id": "edge_control_1",
+      "expected": 14.4234,
+      "got": 14.4271,
+      "abs_err": 0.0036999999999984823,
+      "pass": false
+    },
+    {
+      "id": "edge_control_2",
+      "expected": 12.7132,
+      "got": 13.1329,
+      "abs_err": 0.41969999999999885,
+      "pass": false
+    },
+    {
+      "id": "edge_discrim_1",
+      "expected": 11.5607,
+      "got": 11.2618,
+      "abs_err": 0.2989000000000015,
+      "pass": false
+    },
+    {
+      "id": "edge_discrim_2",
+      "expected": 14.1731,
+      "got": 14.1484,
+      "abs_err": 0.024699999999999278,
+      "pass": false
+    },
+    {
+      "id": "edge_discrim_3",
+      "expected": 12.803,
+      "got": 12.5326,
+      "abs_err": 0.2704000000000004,
+      "pass": false
+    },
+    {
+      "id": "edge_boundary_1",
+      "expected": 9.6612,
+      "got": 10.0834,
+      "abs_err": 0.42220000000000013,
+      "pass": false
+    },
+    {
+      "id": "edge_boundary_2",
+      "expected": 13.902,
+      "got": 13.6651,
+      "abs_err": 0.23689999999999856,
+      "pass": false
+    },
+    {
+      "id": "rand_00",
+      "expected": 10.9856,
+      "got": 11.0716,
+      "abs_err": 0.0860000000000003,
+      "pass": false
+    },
+    {
+      "id": "rand_01",
+      "expected": 14.3293,
+      "got": 14.2872,
+      "abs_err": 0.04209999999999958,
+      "pass": false
+    },
+    {
+      "id": "rand_02",
+      "expected": 10.7132,
+      "got": 10.6626,
+      "abs_err": 0.05060000000000109,
+      "pass": false
+    },
+    {
+      "id": "rand_03",
+      "expected": 14.1015,
+      "got": 14.0518,
+      "abs_err": 0.04969999999999963,
+      "pass": false
+    },
+    {
+      "id": "rand_04",
+      "expected": 14.1091,
+      "got": 14.0282,
+      "abs_err": 0.08089999999999975,
+      "pass": false
+    },
+    {
+      "id": "rand_05",
+      "expected": 12.2333,
+      "got": 12.1205,
+      "abs_err": 0.11280000000000001,
+      "pass": false
+    },
+    {
+      "id": "rand_06",
+      "expected": 10.7919,
+      "got": 10.5433,
+      "abs_err": 0.2485999999999997,
+      "pass": false
+    },
+    {
+      "id": "rand_07",
+      "expected": 11.923,
+      "got": 12.129,
+      "abs_err": 0.20599999999999952,
+      "pass": false
+    },
+    {
+      "id": "rand_08",
+      "expected": 11.2271,
+      "got": 11.4909,
+      "abs_err": 0.2637999999999998,
+      "pass": false
+    },
+    {
+      "id": "rand_09",
+      "expected": 14.4482,
+      "got": 14.4367,
+      "abs_err": 0.011499999999999844,
+      "pass": false
+    },
+    {
+      "id": "rand_10",
+      "expected": 13.2745,
+      "got": 13.2163,
+      "abs_err": 0.05819999999999936,
+      "pass": false
+    },
+    {
+      "id": "rand_11",
+      "expected": 11.7474,
+      "got": 11.6181,
+      "abs_err": 0.12930000000000064,
+      "pass": false
+    },
+    {
+      "id": "rand_12",
+      "expected": 13.0254,
+      "got": 12.8187,
+      "abs_err": 0.20669999999999966,
+      "pass": false
+    },
+    {
+      "id": "rand_13",
+      "expected": 13.3612,
+      "got": 13.611,
+      "abs_err": 0.24980000000000047,
+      "pass": false
+    },
+    {
+      "id": "rand_14",
+      "expected": 13.271,
+      "got": 13.5428,
+      "abs_err": 0.27179999999999893,
+      "pass": false
+    },
+    {
+      "id": "rand_15",
+      "expected": 12.7835,
+      "got": 12.8861,
+      "abs_err": 0.10260000000000069,
+      "pass": false
+    },
+    {
+      "id": "rand_16",
+      "expected": 12.3757,
+      "got": 12.3944,
+      "abs_err": 0.01869999999999905,
+      "pass": false
+    },
+    {
+      "id": "rand_17",
+      "expected": 13.7293,
+      "got": 13.5508,
+      "abs_err": 0.17849999999999966,
+      "pass": false
+    },
+    {
+      "id": "rand_18",
+      "expected": 13.0362,
+      "got": 13.209,
+      "abs_err": 0.1728000000000005,
+      "pass": false
+    },
+    {
+      "id": "rand_19",
+      "expected": 11.3673,
+      "got": 11.364,
+      "abs_err": 0.0032999999999994145,
+      "pass": false
+    },
+    {
+      "id": "rand_20",
+      "expected": 12.6692,
+      "got": 12.556,
+      "abs_err": 0.11320000000000086,
+      "pass": false
+    },
+    {
+      "id": "rand_21",
+      "expected": 13.7633,
+      "got": 13.6838,
+      "abs_err": 0.07949999999999946,
+      "pass": false
+    },
+    {
+      "id": "rand_22",
+      "expected": 12.5735,
+      "got": 12.6469,
+      "abs_err": 0.07340000000000124,
+      "pass": false
+    },
+    {
+      "id": "rand_23",
+      "expected": 13.3457,
+      "got": 13.1229,
+      "abs_err": 0.22280000000000122,
+      "pass": false
+    },
+    {
+      "id": "rand_24",
+      "expected": 11.7613,
+      "got": 11.5869,
+      "abs_err": 0.17440000000000033,
+      "pass": false
+    },
+    {
+      "id": "rand_25",
+      "expected": 14.2303,
+      "got": 14.2066,
+      "abs_err": 0.023699999999999832,
+      "pass": false
+    },
+    {
+      "id": "rand_26",
+      "expected": 13.3301,
+      "got": 13.2571,
+      "abs_err": 0.0730000000000004,
+      "pass": false
+    },
+    {
+      "id": "rand_27",
+      "expected": 14.1256,
+      "got": 14.0356,
+      "abs_err": 0.08999999999999986,
+      "pass": false
+    },
+    {
+      "id": "rand_28",
+      "expected": 12.8845,
+      "got": 12.6207,
+      "abs_err": 0.2637999999999998,
+      "pass": false
+    },
+    {
+      "id": "rand_29",
+      "expected": 11.3624,
+      "got": 11.7358,
+      "abs_err": 0.3734000000000002,
+      "pass": false
+    },
+    {
+      "id": "rand_30",
+      "expected": 14.3977,
+      "got": 14.3613,
+      "abs_err": 0.03640000000000043,
+      "pass": false
+    },
+    {
+      "id": "rand_31",
+      "expected": 11.9219,
+      "got": 11.9396,
+      "abs_err": 0.017699999999999605,
+      "pass": false
+    },
+    {
+      "id": "rand_32",
+      "expected": 12.4356,
+      "got": 12.1399,
+      "abs_err": 0.2957000000000001,
+      "pass": false
+    },
+    {
+      "id": "rand_33",
+      "expected": 10.655,
+      "got": 10.439,
+      "abs_err": 0.2159999999999993,
+      "pass": false
+    },
+    {
+      "id": "rand_34",
+      "expected": 12.7943,
+      "got": 12.8907,
+      "abs_err": 0.09640000000000093,
+      "pass": false
+    },
+    {
+      "id": "rand_35",
+      "expected": 11.4412,
+      "got": 11.4061,
+      "abs_err": 0.03509999999999991,
+      "pass": false
+    },
+    {
+      "id": "rand_36",
+      "expected": 14.2433,
+      "got": 14.1707,
+      "abs_err": 0.07259999999999955,
+      "pass": false
+    },
+    {
+      "id": "rand_37",
+      "expected": 13.8121,
+      "got": 13.9095,
+      "abs_err": 0.09740000000000038,
+      "pass": false
+    },
+    {
+      "id": "rand_38",
+      "expected": 13.3485,
+      "got": 13.389,
+      "abs_err": 0.04049999999999976,
+      "pass": false
+    },
+    {
+      "id": "rand_39",
+      "expected": 13.0405,
+      "got": 13.2304,
+      "abs_err": 0.18989999999999974,
+      "pass": false
+    }
+  ],
+  "probes_used": 200
+}
